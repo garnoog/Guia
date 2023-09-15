@@ -363,7 +363,7 @@ local keyHandler = {
 		[Enum.UserInputType.MouseButton3] = true
 	},
 	allowedKeys = {
-                [Enum.KeyCode.Delete] = "Del
+                [Enum.KeyCode.Delete] = "Del",
 		[Enum.KeyCode.LeftShift] = "LShift",
 		[Enum.KeyCode.RightShift] = "RShift",
 		[Enum.KeyCode.LeftControl] = "LCtrl",
